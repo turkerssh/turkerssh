@@ -4,8 +4,6 @@
 [![issues](https://img.shields.io/github/issues/Trker4ktas/readme.md?color=red&logo=github&style=for-the-badge)](https://github.com/Trker4ktas/readme.md)
 
 <p align="center">
-  <h3 align="center">Trker4ktas</h3>
-
   <p align="center">
     Welcome My Profile
     <br />
@@ -21,5 +19,5 @@ Give a ⭐️ if this project helped you!
 
 # 📞 Contact
 
--   Mail: trker4ktas@xuplynw.xyz
--   Instagram: https://www.instagram.com/turkerwqe
+-   Mail: aktasturker@outlook.com
+-   Instagram: https://www.instagram.com/turkerpw
