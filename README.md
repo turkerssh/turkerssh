@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turkerpw&label=Profile%20views&color=0e75b6&style=flat" alt="turkerpw" /> </p>
 
-<p align="left"> <a href="https://twitter.com/turkerwastaken" target="blank"><img src="https://img.shields.io/twitter/follow/turkerpw?logo=twitter&style=for-the-badge" alt="turkerpw" /></a> </p>
+<p align="left"> <a href="https://twitter.com/turkerwastaken" target="blank"><img src="https://img.shields.io/twitter/follow/turkerwastaken?logo=twitter&style=for-the-badge" alt="turkerpw" /></a> </p>
 
 - 🔭 Moderatör: [WebmasterForum](https://webmasterforum.com.tr/)
 
