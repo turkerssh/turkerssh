@@ -19,10 +19,10 @@
 - 💬 Hakkımda: **Discord'a 2018'de katıldım. Bot geliştirmeye başladım ve 3 senedir bu işi yapıyorum.**
 
 - 📫 E-Posta: **aktasturker@outlook.com**
-<center>
-![Discord](https://discord.c99.nl/widget/theme-4/852798440680456212.png)<br><br>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852798440680456212?hideDiscrim=true)](https://discord.com/users/852798440680456212)
-</center>
+
+[Discord](https://discord.c99.nl/widget/theme-4/852798440680456212.png)<br><br>
+[Discord Presence](https://lanyard-profile-readme.vercel.app/api/852798440680456212?hideDiscrim=true)](https://discord.com/users/852798440680456212)
+
 
 <h3 align="left">İletişim:</h3>
 <p align="left">
