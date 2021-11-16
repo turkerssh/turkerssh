@@ -20,6 +20,10 @@
 
 - 📫 E-Posta: **aktasturker@outlook.com**
 
+![Discord](https://discord.c99.nl/widget/theme-4/852798440680456212.png)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852798440680456212?hideDiscrim=true)](https://discord.com/users/852798440680456212)
+
+
 <h3 align="left">İletişim:</h3>
 <p align="left">
 <a href="https://codepen.io/turkerpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="turkerpw" height="30" width="40" /></a>
