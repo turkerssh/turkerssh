@@ -1,5 +1,5 @@
 # Hi 👋 I'm Türker
-I am the creator of some known communities.
+
 
 
 
@@ -22,6 +22,5 @@ I am the creator of some known communities.
 <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a> <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=green"></a> <a href="https://html.com/"><img src="https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=orange"></a> <a href="https://css-tricks.com/"><img src="https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=blue"></a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=turkerpw&show_icons=true&hide_title=false&theme=default&text_color=FF9DD9)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turkerpw&layout=&text_color=&title_color=&bg_color=)
 
 
