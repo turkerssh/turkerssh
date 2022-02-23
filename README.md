@@ -1,3 +1,4 @@
+<center>
 # Hi 👋 I'm Türker
 
 
@@ -24,3 +25,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=turkerpw&show_icons=true&hide_title=false&theme=default&text_color=FF9DD9)
 
 
+</center>
