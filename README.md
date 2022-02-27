@@ -1,15 +1,17 @@
 
-# Hi 👋 I'm Türker
+# Merhaba 👋 Ben Türker
 
-
-
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852798440680456212?theme=dark&animated=true&hideDiscrim=false&borderRadius=15px)](https://discord.com/users/852798440680456212)
-
-
-
+[![Discord](https://lanyard-profile-readme.vercel.app/api/852798440680456212?theme=dark&animated=true&hideDiscrim=false&borderRadius=15px)](https://discord.com/users/852798440680456212)
+<iframe
+    src="https://linkcord.swoth.xyz/api/v1/widget/852798440680456212?type="
+    width="600"
+    height="140"
+    allowtransparency="true"
+    frameborder="0"
+    sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
+/>
 <h3></h3>
-   <a href="https://discord.com/users/852798440680456212" target"blank_"><img src="https://img.shields.io/badge/t%C3%BCrker%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://discord.com/users/852798440680456212" target"blank_"><img src="https://img.shields.io/badge/t%C3%BCrker%20#0001-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://github.com/turkerpw" target"blank_"><img src="https://img.shields.io/badge/turkerpw%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.instagram.com/turkerpw" target"blank_"><img src="https://img.shields.io/badge/turkerpw%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://discord.gg/campfire"><img src="https://img.shields.io/badge/Campfire%20-23FFFFFF.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
