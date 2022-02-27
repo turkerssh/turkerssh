@@ -3,9 +3,9 @@
 
 [![Discord](https://lanyard-profile-readme.vercel.app/api/852798440680456212?theme=dark&animated=true&hideDiscrim=false&borderRadius=15px)](#)
 <p>
-   <a href="https://discord.com/users/852798440680456212" target"blank_"><img src="https://img.shields.io/badge/t%C3%BCrker%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://github.com/turkerpw" target"blank_"><img src="https://img.shields.io/badge/turkerpw%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.instagram.com/turkerpw" target"blank_"><img src="https://img.shields.io/badge/turkerpw%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://discord.com/users/852798440680456212" target"blank_"><img src="https://img.shields.io/badge/Discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://github.com/turkerpw" target"blank_"><img src="https://img.shields.io/badge/Github%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.instagram.com/turkerpw" target"blank_"><img src="https://img.shields.io/badge/Instagram%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://discord.gg/campfire"><img src="https://img.shields.io/badge/Campfire%20-23FFFFFF.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
