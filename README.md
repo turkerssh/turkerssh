@@ -1,18 +1,24 @@
+# ✨ Hey there! It's turkerpw
 
-# Merhaba 👋 Ben Türker
+## 🌍 Social Media
 
-[![Discord](https://lanyard-profile-readme.vercel.app/api/852798440680456212?theme=dark&animated=true&hideDiscrim=false&borderRadius=15px)](#)
-<p>
-   <a href="https://discord.com/users/852798440680456212" target"blank_"><img src="https://img.shields.io/badge/Discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://github.com/turkerpw" target"blank_"><img src="https://img.shields.io/badge/Github%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.instagram.com/turkerpw" target"blank_"><img src="https://img.shields.io/badge/Instagram%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="https://discord.gg/campfire"><img src="https://img.shields.io/badge/Campfire%20-23FFFFFF.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<p align="center">
+    <a href="http://instagram.com/turkerpw"><img src="https://img.shields.io/badge/turkerpw%20-FF08B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://discord.com/users/852798440680456212"><img src="https://img.shields.io/badge/Turker%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://github.com/turkerpw"><img src="https://img.shields.io/badge/turkerpw%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://turker.vercel.app"><img src="https://img.shields.io/badge/Website%20-1d202b.svg?&style=for-the-badge" /></a>
 </p>
 
+## 📈 Github Stats
 
-<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a> <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=green"></a> <a href="https://html.com/"><img src="https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=orange"></a> <a href="https://css-tricks.com/"><img src="https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=blue"></a>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=turkerpw&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turkerpw&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&langs_count=10&hide_title=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=turkerpw&theme=radical" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=turkerpw&bg_color=141321&color=FF9DD9&line=FF9DD9&point=9dffc3" />
+</p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=turkerpw&show_icons=true&hide_title=false&theme=dark&text_color=FF9DD9)
+![visits](https://komarev.com/ghpvc/?username=turkerpw)
 
-
-
+# ⚽ Activity
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852798440680456212)](https://discord.com/users/852798440680456212)
