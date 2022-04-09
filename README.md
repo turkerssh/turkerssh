@@ -9,7 +9,7 @@
     <a href="https://turker.pages.dev"><img src="https://img.shields.io/badge/Website%20-1d202b.svg?&style=for-the-badge" /></a>
 </p>
 
-## 📈 Github Stats
+## 📈 GitHub İstatistiklerim
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=turkerpw&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true" /><br>
@@ -20,5 +20,5 @@
 
 ![visits](https://komarev.com/ghpvc/?username=turkerpw)
 
-# ⚽ Activity
+# ⚽ Profilim
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852798440680456212)](https://discord.com/users/852798440680456212)
