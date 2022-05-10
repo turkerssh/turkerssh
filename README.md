@@ -21,4 +21,4 @@
 ![visits](https://komarev.com/ghpvc/?username=turkerqwe)
 
 # ⚽ Profilim
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852798440680456212)](https://discord.com/users/852798440680456212)
+[![Discord Presence](https://lanyard.cnrad.dev/api/852798440680456212)](https://discord.com/users/852798440680456212)
