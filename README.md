@@ -1,24 +1,34 @@
-# ✨ Hello! My name is Micky (Türker)
+# 𝗛𝗲𝗹𝗹𝗼 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27"> 
 
-## 🌍 Social Media
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&labelColor=5851DB&logo=instagram&logoColor=white&link=https://instagram.com/turkerqwe)](https://instagram.com/this.clqu)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@clqu.live)](mailto:me@turker.live)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mickyws)
 
-<p align="center">
-    <a href="http://instagram.com/turkerqwe"><img src="https://img.shields.io/badge/instagram%20-FF08B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://discord.com/users/852798440680456212"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://github.com/micky3000"><img src="https://img.shields.io/badge/github%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://turker.live"><img src="https://img.shields.io/badge/Website%20-1d202b.svg?&style=for-the-badge" /></a>
-</p>
+<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mickyws&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 
-## 📈 GitHub Stats
+<div align="left" width="100%">
+   
+## 🧐 About
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=micky3000&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true" /><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micky3000&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&langs_count=10&hide_title=true" />
-    <img src="https://github-profile-trophy.vercel.app/?username=micky3000&theme=radical" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=micky3000&bg_color=141321&color=FF9DD9&line=FF9DD9&point=9dffc3" />
-</p>
+- Hello, I'm Turker. I don't think any more information is needed :)
+- 👨‍💻 Website: http://turker.live
+- 📫 How to reach me: me@turker.live
+  
+<br />
+   
+## ⚙️ Technologies I use
+   
+<img src="https://skillicons.dev/icons?i=nextjs,html,css,javascript,typescript,tailwindcss,mongodb,heroku,github,bootstrap,git,mysql,nodejs,react,express" />
+</div>
 
-![visits](https://komarev.com/ghpvc/?username=micky3000)
+<br />
 
-# ⚽ Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/852798440680456212)](https://discord.com/users/852798440680456212)
+## ✨ Stats
+
+<div align="center" width="100%">
+   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mickyws&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+   <img align="right" width="50%" src="https://activity-graph.herokuapp.com/graph?username=mickyws&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
+</div>
+
+<br />
+<br />
