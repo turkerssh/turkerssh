@@ -12,7 +12,7 @@
 
 - Hello, I'm Turker. I don't think any more information is needed :)
 - 👨‍💻 Website: http://turker.live
-- 📫 How to reach me: me@turker.live
+- 📫 How to reach me: micky@cortex.fun
   
 <br />
    
