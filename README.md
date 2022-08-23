@@ -8,10 +8,9 @@
 
 <div align="left" width="100%">
    
-## 🧐 About
+## ✍️ Contacy
 
-- Hello, I'm Turker. I don't think any more information is needed :)
-- 👨‍💻 Website: http://turker.live
+- 👨‍💻 Website: 
 - 📫 How to reach me: micky@cortex.fun
   
 <br />
