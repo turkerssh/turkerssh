@@ -10,8 +10,8 @@
    
 ## ✍️ Contact
 
-- 👨‍💻 Website: 
-- 📫 How to reach me:
+- 👨‍💻 Website: https://turker.live
+- 📫 How to reach me: me@turker.live
   
 <br />
    
