@@ -27,7 +27,3 @@
 </div>
 
 
-## 👀 Discord
-<center>
-<img width="50%" src="https://api.ravencode.live/users/852798440680456212/embed"/>
-   </center>
