@@ -8,7 +8,7 @@
 ## ✍️ Contact
 
 - 👨‍💻 Website: https://turker.live
-- 📫 How to reach me: me@turker.live
+- 📫 How to reach me: turker@devs.org.tr
   
 <br />
    
