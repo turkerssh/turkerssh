@@ -1,4 +1,4 @@
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&labelColor=5851DB&logo=instagram&logoColor=white&link=https://instagram.com/turkwr)](https://instagram.com/turkwr)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&labelColor=5851DB&logo=instagram&logoColor=white&link=https://instagram.com/turkwrr)](https://instagram.com/turkwr)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/turkwrr)](https://twitter.com/turkwrr)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:turker@devs.org.tr)](mailto:turker@devs.org.tr)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=turkwr)
