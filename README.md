@@ -1,4 +1,4 @@
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/pudidev)](https://twitter.com/pudidev)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pudidev)
 ![](https://komarev.com/ghpvc/?username=pudidev)
 <br>
 <br>
