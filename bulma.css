@@ -1,0 +1,645 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+.navbar-brand{
+    background-color: #111 !important;
+    margin-left: 3px;
+}
+.navbar{
+    background-color: #111 !important;
+
+}
+.navbar-burger{
+  margin-top: 2px;
+}
+
+.navbar-item:hover, .navbar-link:hover{
+    background-color: rgb(34, 34, 34) !important;
+}
+
+.navbar-item:not(:hover), .navbar-link:not(:hover){
+    background-color: #111 !important;
+}
+
+.select:not(.is-multiple):not(.is-loading)::after {
+  border-color: white !important;
+}
+
+.server-banner-bg{
+  position: absolute;
+  height: 160px;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background-size: 100%;
+  opacity: .2;
+  z-index: -1;
+  -webkit-transition: .6s;
+  -o-transition: .6s;
+  transition: .6s;
+}
+
+.server-banner-bg, .server-banner-overlay{
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(transparent), to(var(--card-background)));
+  background: -webkit-linear-gradient(transparent, transparent, var(--card-background));
+  background: -o-linear-gradient(transparent, transparent, var(--card-background));
+  background: linear-gradient(transparent, transparent, var(--card-background));
+  -webkit-transition: .08s;
+  -o-transition: .08s;
+  transition: .08s;
+  width: 100%;
+}
+
+.not-top-four-text:hover, .server-vote:hover{
+  cursor: pointer !important;
+}
+
+.guild-desc{
+  -ms-word-break: break-all;
+  word-break: break-all;
+
+  /* Non standard for WebKit */
+  word-break: break-word;
+
+-webkit-hyphens: auto;
+-moz-hyphens: auto;
+     hyphens: auto;
+}
+
+
+.textarea::placeholder{
+  color: #9b9b9b;
+}
+
+.textarea{
+  color: #dfdfdf;
+}
+.search-item{
+  text-align: left !important;
+  color: #f5f5f5;
+  padding-left: 15px;
+  margin-top: 20px;
+  font-size: 15px;
+}
+input::placeholder{
+  color: rgb(211, 211, 211) !important;
+}
+
+.team-username:hover{
+    cursor: pointer !important;
+}
+.top-light{
+    box-shadow:
+    inset 0 0 15px #fff,      
+    inset 5px 0 15px #f0f,   
+    inset -5px 0 15px #7201ff,  
+    inset 5px 0 15px #f0f,  
+    inset -5px 0 15px #7201ff, 
+    0 0 8px #fff,           
+    -3px 0 17px #f0f,       
+    3px 0 17px #0ff;    
+}.lds-ellipsis {
+    display: inline-block;
+    position: relative;
+    width: 80px;
+    height: 80px;
+  }
+  .lds-ellipsis div {
+    position: absolute;
+    top: 33px;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    background: #fff;
+    animation-timing-function: cubic-bezier(0, 1, 1, 0);
+  }
+  .lds-ellipsis div:nth-child(1) {
+    left: 8px;
+    animation: lds-ellipsis1 0.6s infinite;
+  }
+  .lds-ellipsis div:nth-child(2) {
+    left: 8px;
+    animation: lds-ellipsis2 0.6s infinite;
+  }
+  .lds-ellipsis div:nth-child(3) {
+    left: 32px;
+    animation: lds-ellipsis2 0.6s infinite;
+  }
+  .lds-ellipsis div:nth-child(4) {
+    left: 56px;
+    animation: lds-ellipsis3 0.6s infinite;
+  }
+  @keyframes lds-ellipsis1 {
+    0% {
+      transform: scale(0);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  @keyframes lds-ellipsis3 {
+    0% {
+      transform: scale(1);
+    }
+    100% {
+      transform: scale(0);
+    }
+  }
+  @keyframes lds-ellipsis2 {
+    0% {
+      transform: translate(0, 0);
+    }
+    100% {
+      transform: translate(24px, 0);
+    }
+  }
+  
+
+  .circles{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.circles li{
+    position: absolute;
+    display: block;
+    list-style: none;
+    width: 20px;
+    height: 20px;
+    background: rgb(34, 34, 34);
+    animation: animated 20s linear infinite;
+    bottom: -150px;
+    
+}
+
+.circles li:nth-child(1){
+    left: 25%;
+    width: 80px;
+    height: 80px;
+    animation-delay: 0s;
+}
+
+
+.circles li:nth-child(2){
+    left: 10%;
+    width: 20px;
+    height: 20px;
+    animation-delay: 2s;
+    animation-duration: 6s;
+}
+
+.circles li:nth-child(3){
+    left: 70%;
+    width: 20px;
+    height: 20px;
+    animation-delay: 4s;
+}
+
+.circles li:nth-child(4){
+    left: 40%;
+    width: 60px;
+    height: 60px;
+    animation-delay: 0s;
+    animation-duration: 5s;
+}
+
+.circles li:nth-child(5){
+    left: 65%;
+    width: 20px;
+    height: 20px;
+    animation-delay: 0s;
+}
+
+.circles li:nth-child(6){
+    left: 75%;
+    width: 110px;
+    height: 110px;
+    animation-delay: 3s;
+}
+
+.circles li:nth-child(7){
+    left: 35%;
+    width: 150px;
+    height: 150px;
+    animation-delay: 7s;
+}
+
+.circles li:nth-child(8){
+    left: 50%;
+    width: 25px;
+    height: 25px;
+    animation-delay: 15s;
+    animation-duration: 45s;
+}
+
+.circles li:nth-child(9){
+    left: 20%;
+    width: 15px;
+    height: 15px;
+    animation-delay: 2s;
+    animation-duration: 35s;
+}
+
+.circles li:nth-child(10){
+    left: 85%;
+    width: 150px;
+    height: 150px;
+    animation-delay: 0s;
+    animation-duration: 11s;
+}
+
+
+
+@keyframes animated {
+
+    0%{
+        transform: translateY(0) rotate(0deg);
+        opacity: 1;
+        border-radius: 50%;
+    }
+
+    100%{
+        transform: translateY(-1000px) rotate(720deg);
+        opacity: 0;
+        border-radius: 50%;
+    }
+
+}
+
+.preloader {
+    align-items: center;
+    background: black;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    left: 0;
+    position: fixed;
+    top: 0;
+    transition: opacity 0.3s linear;
+    width: 100%;
+    z-index: 9999;
+  }
+
+.check-stick{
+    position: absolute !important;
+    top: -5px !important;
+    left: -5px !important;
+}
+
+
+.winner{
+    position: absolute !important;
+    top: -1px !important;
+    left: -10px !important;
+    float: left !important;
+    text-align: left !important;
+}
+
+.verified-server-check{
+  position: absolute !important;
+
+  bottom: -3px !important;
+  right: -3px !important;
+  background-color: #161616;
+  padding: 2px;
+  border-radius: 50%;
+  font-size: 17px;
+}
+
+
+.verified-mark{
+    position: absolute !important;
+    bottom: -7px !important;
+    right: -7px !important;
+}
+.ovf-ellipsis{
+    overflow: hidden;
+    white-space: nowrap;
+    width: 210px !important;
+    text-overflow: ellipsis;
+}
+
+.h-item{
+    -webkit-transition: background 0.3s; /* For Safari 3.0 to 6.0 */
+    transition: background 0.3s; /* For modern browsers */
+}
+
+.h-item:hover{
+    cursor: pointer !important;
+    background-color: rgb(18.5, 18.5, 18.5) !important;
+    
+}
+
+.b-item{
+  -webkit-transition: background 0.3s; /* For Safari 3.0 to 6.0 */
+  transition: background 0.3s; /* For modern browsers */
+}
+
+.tabs a:hover{
+    
+  background-color: rgb(24, 24, 24) !important;
+  }
+  
+.b-item:hover{
+  cursor: pointer !important;
+  background-color: rgb(24, 24, 24) !important;
+  
+}
+
+
+.navbar-item, .navbar-link {
+    color: white !important;
+    font-size: 16px;
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue","Helvetica","Arial",sans-serif;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+    height: 60px !important;
+
+}
+
+#server-name-hover:hover{
+    cursor: pointer !important;
+}
+
+.navbar-dropdown{
+    border: none !important;
+    border-color: transparent !important;
+}
+
+.navbar-dropdown .navbar-item a{
+    color: white !important;
+    font-size: 16px;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    height: 30px !important;
+}
+
+.navbar-link:not(.is-arrowless)::after{
+    border-color: #fff !important;
+}
+.has-dropdown{
+    padding-top: 0px !important;
+    margin-top: 0px !important;
+    background-color: #161616 !important;
+
+}
+
+.navbarBasicExample, .navbar-dropdown{
+    background-color: #111  !important;
+}
+
+@media screen and (max-width: 1023px){
+    .navbar-menu {
+        background-color: #111 !important;
+    }
+    
+}
+
+.footer ul li{
+    list-style: none !important;
+}
+.footer{
+    background-color: #161616 !important;
+}
+
+.footer-icon{
+    font-weight: 800 !important;
+    color: #fff;
+    font-size: 15px !important;
+}
+
+
+.wave-1hkxOo{display:block}.wavePath-haxJK1{-webkit-animation: waveDividerAnimation-2m2aau 20s linear infinite alternate;animation: waveDividerAnimation-2m2aau 20s linear infinite alternate;}.animationPaused-2hZ4IO{-webkit-animation-play-state:paused;animation-play-state:paused}@-webkit-keyframes waveDividerAnimation-2m2aau{0%{d:path("M826.337463,25.5396311 C670.970254,58.655965 603.696181,68.7870267 447.802481,35.1443383 C293.342778,1.81111414 137.33377,1.81111414 0,1.81111414 L0,150 L1920,150 L1920,1.81111414 C1739.53523,-16.6853983 1679.86404,73.1607868 1389.7826,37.4859505 C1099.70117,1.81111414 981.704672,-7.57670281 826.337463,25.5396311 Z")}50%{d:path("M655.558582,28.4898877 C500.191373,61.6062216 422.833785,83.5422763 266.940085,49.8995879 C112.480383,16.5663637 84.0992497,8.02840272 0,44.7243294 L0,150.727527 L1920,150.727527 L1920,49.8995879 C1580.91676,-34.8808285 1438.10804,73.6768193 1148.0266,38.0019829 C857.945166,2.32714659 810.925791,-4.62644617 655.558582,28.4898877 Z")}to{d:path("M842.322034,38.0019829 C686.954825,71.1183168 623.386282,53.08497 467.492582,19.4422816 C313.032879,-13.8909426 84.0992497,8.02840272 0,44.7243294 L0,150.727527 L1920,150.727527 L1920,76.8685643 C1512.23604,-35.3595639 1568.70222,67.4289432 1278.62078,31.7541069 C988.539347,-3.92072949 997.689243,4.88564905 842.322034,38.0019829 Z")}}@keyframes waveDividerAnimation-2m2aau{0%{d:path("M826.337463,25.5396311 C670.970254,58.655965 603.696181,68.7870267 447.802481,35.1443383 C293.342778,1.81111414 137.33377,1.81111414 0,1.81111414 L0,150 L1920,150 L1920,1.81111414 C1739.53523,-16.6853983 1679.86404,73.1607868 1389.7826,37.4859505 C1099.70117,1.81111414 981.704672,-7.57670281 826.337463,25.5396311 Z")}50%{d:path("M655.558582,28.4898877 C500.191373,61.6062216 422.833785,83.5422763 266.940085,49.8995879 C112.480383,16.5663637 84.0992497,8.02840272 0,44.7243294 L0,150.727527 L1920,150.727527 L1920,49.8995879 C1580.91676,-34.8808285 1438.10804,73.6768193 1148.0266,38.0019829 C857.945166,2.32714659 810.925791,-4.62644617 655.558582,28.4898877 Z")}to{d:path("M842.322034,38.0019829 C686.954825,71.1183168 623.386282,53.08497 467.492582,19.4422816 C313.032879,-13.8909426 84.0992497,8.02840272 0,44.7243294 L0,150.727527 L1920,150.727527 L1920,76.8685643 C1512.23604,-35.3595639 1568.70222,67.4289432 1278.62078,31.7541069 C988.539347,-3.92072949 997.689243,4.88564905 842.322034,38.0019829 Z")}}
+
+
+
+.shine {
+    position: relative;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    
+    margin: 25px 0 25px 25px;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    font-size: 12px;
+    font-family: sans-serif;
+  }
+
+  
+  .shine:after {
+    
+    animation: shineAnimation 5s ease-in-out  infinite;
+    animation-fill-mode: forwards;  
+    content: "";
+    position: absolute;
+    top: -110%;
+    left: -210%;
+    width: 200%;
+    height: 200%;
+    opacity: 0;
+    transform: rotate(30deg);
+
+  }
+  .shine:active:after {
+    opacity: 0;
+  }
+  
+  @keyframes shineAnimation{
+    10% {
+      opacity: 1;
+      top: -30%;
+      left: -30%;
+      transition-property: left, top, opacity;
+      transition-duration: 0.7s, 0.7s, 0.15s;
+      transition-timing-function: ease;
+    }
+    100% {
+      opacity: 0;
+      top: -30%;
+      left: -30%;
+      transition-property: left, top, opacity;
+    }
+  }
+
+
+  @media screen and (max-width: 610px){
+
+
+    #search-db{
+      width: 400px !important;
+    }
+
+    
+}
+
+
+
+@media screen and (max-width: 415px){
+
+
+  #search-db{
+    width: 300px !important;
+  }
+
+  
+}
+
+
+@media screen and (max-width: 360px){
+
+
+  #search-db{
+    width: 200px !important;
+  }
+
+  
+}
+
+@font-face {
+  font-family: 'Whitney Medium';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Whitney Medium'), url('/web/20210830152644im_/https://codesty.org/public/fonts/whitneybold.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Whitney Medium Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Whitney Medium Italic'), url('/web/20210830152644im_/https://codesty.org/public/fonts/whitneymediumitalic.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Whitney Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Whitney Bold'), url('/web/20210830152644im_/https://codesty.org/public/fonts/whitneybold.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Whitney Semibold Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Whitney Semibold Regular'), url('/web/20210830152644im_/https://codesty.org/public/fonts/whitneysemibold.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Whitney Book Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Whitney Book Regular'), url('/web/20210830152644im_/https://codesty.org/public/fonts/whitneybook.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Whitney Light Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Whitney Light Regular'), url('/web/20210830152644im_/https://codesty.org/public/fonts/whitneylight.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Whitney Semibold Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Whitney Semibold Italic'), url('/web/20210830152644im_/https://codesty.org/public/fonts/WhitneySemiboldItalic.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Whitney Book Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Whitney Book Italic'), url('/web/20210830152644im_/https://codesty.org/public/fonts/whitneybookitalic.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Whitney Light Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Whitney Light Italic'), url('/web/20210830152644im_/https://codesty.org/public/fonts/whitneylightitalic.woff') format('woff');
+  }
+
+  @font-face {
+  font-family: 'Default Font';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Default Font'), url('/web/20210830152644im_/https://codesty.org/public/fonts/font.woff') format('woff');
+  }
+
+  @font-face {
+  font-family: 'Light Font';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Light Font'), url('/web/20210830152644im_/https://codesty.org/public/fonts/light.woff') format('woff');
+  }
+
+
+  
+  p, a, span,input,h5 {
+    font-family: 'Light Font' !important;
+  }
+
+  h1 {
+    font-family: 'Default Font' !important;
+  }
+
+  .user-edit:hover{
+    cursor: pointer;
+  }
+
+  .badge-icon{
+    color: rgb(224, 224, 224) !important;
+  }
+
+  .ccaska {
+    position: absolute;
+    display: block;
+    top: 0px;
+    right: 0px;
+    height: 100%;
+    z-index: 1;
+  }
+  /* ---- particles.js container ---- */ #particles-js{ position:absolute; width: 100%; height: 100%; background-color: transparent; background-image: url("/web/20210830152644im_/https://codesty.org/public/styles/all.css"); background-repeat: no-repeat; background-size: 20%; background-position: 50% 50%; } /* ---- stats.js ---- */ .count-particles{ background: #000022; position: absolute; top: 48px; left: 0; width: 80px; color: #13E8E9; font-size: .8em; text-align: left; text-indent: 4px; line-height: 14px; padding-bottom: 2px; font-family: Helvetica, Arial, sans-serif; font-weight: bold; } .js-count-particles{ font-size: 1.1em; } #stats, .count-particles{ -webkit-user-select: none; margin-top: 5px; margin-left: 5px; } #stats{ border-radius: 3px 3px 0 0; overflow: hidden; } .count-particles{ border-radius: 0 0 3px 3px; }
+/*
+     FILE ARCHIVED ON 15:26:44 Aug 30, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:53:01 Jun 24, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 230.378
+  exclusion.robots: 0.08
+  exclusion.robots.policy: 0.072
+  RedisCDXSource: 1.396
+  esindex: 0.009
+  LoadShardBlock: 211.293 (3)
+  PetaboxLoader3.datanode: 314.695 (4)
+  load_resource: 212.043
+  PetaboxLoader3.resolve: 36.034
+*/
