@@ -92,7 +92,7 @@ export async function fetchActivities(username) {
    .slice(0, activity.maxLines || 15);
 
   if (!content.length) throw new Error("No events found!");
-  if (content.length < 5) throw new Error("Found less than 5 activities!");
+  if (content.length < 3) throw new Error("Found less than 5 activities!");
  } catch (error) {
   throw new Error(`Error fetching activities: ${error.message}`);
  }

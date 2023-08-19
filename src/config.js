@@ -3,7 +3,7 @@ export const activity = {
  open: "<!--START_SECTION:activity-->",
  close: "<!--END_SECTION:activity-->",
  gitUsername: "turkwr",
- maxLines: 10,
+ maxLines: 1,
 };
 
 export const wakatime = {
