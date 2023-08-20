@@ -7,7 +7,7 @@ const readme = await Deno.readTextFile("./README.md", "utf8");
 
 const [activityList, statsList] = await Promise.all([fetchCodingStats(wakatime.apiKey, activity.gitUsername)]);
 
-const readmeActivity = `${activityList.join("<br>")}`;
+const readmeActivity = ``;
 const wakatimeActivity = `${readmeActivity.substring(0, readmeActivity.indexOf(wakatime.open) + wakatime.open.length)}\n${statsList}\n${readmeActivity.substring(readmeActivity.indexOf(wakatime.close))}`;
 await Deno.writeTextFile("./README.md", wakatimeActivity.trim());
 
