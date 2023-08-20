@@ -12,20 +12,4 @@
 
 <!--START_SECTION:wakatime-->
 
-#### 📅 I work mostly during the night
-
-```text
-```
-#### 📅 I'm most productive on Tuesday
-
-```text
-```
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-```
-
-<!-- Wakatime last updated on Sat Aug 19 2023 14:36:34 GMT+0000 (Coordinated Universal Time) -->
-</details>
-   
 <!--END_SECTION:wakatime-->
