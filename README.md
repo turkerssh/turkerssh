@@ -9,6 +9,6 @@
 ![](https://skillicons.dev/icons?i=js,ts,py,php,html,css,tailwind,bootstrap,nodejs,express,react,nextjs&theme=dark&perline=4)
 
 
-<!--START_SECTION:wakatime-->
+<!--START_SECTION:waka-->
 
-<!--END_SECTION:wakatime-->
+<!--END_SECTION:waka-->
