@@ -1,3 +1,0 @@
-{
- "extends": ["github>turkwr/shared-configs//packages/renovate-config/index.json"]
-}
