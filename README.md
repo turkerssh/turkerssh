@@ -6,7 +6,7 @@
 </a>
 
 ### 🧠 Technologies I use
-![](https://skillicons.dev/icons?i=js,ts,py,php,html,css,tailwind,bootstrap,nodejs,express,react,nextjs&theme=dark&perline=6)
+![](https://skillicons.dev/icons?i=js,ts,py,php,html,css,tailwind,bootstrap,nodejs,express,react,nextjs&theme=dark&perline=4)
 
 
 <!--START_SECTION:waka-->
