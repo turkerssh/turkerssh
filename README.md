@@ -11,4 +11,12 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+JavaScript     19 mins         █████████████▒░░░░░░░░░░░   53.34 %
+TypeScript     11 mins         ███████▓░░░░░░░░░░░░░░░░░   30.72 %
+Ezhil          3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+JSON           2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+ActionScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+```
+
 <!--END_SECTION:waka-->
