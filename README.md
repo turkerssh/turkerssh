@@ -1,6 +1,6 @@
 <!-- ## Hi! I'm Türker 🖐️ -->
 ##  Hi! I'm Türker 👋
-## [![GitHub followers](https://img.shields.io/github/followers/turkwr?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/turkwr?tab=followers) [![](https://visitcount.itsvg.in/api?id=turkwr&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+## [![GitHub followers](https://img.shields.io/github/followers/turkwr?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/turkwr?tab=followers)
 <a href="https://discord.com/users/162740870607536128">
  <img src="https://lanyard.cnrad.dev/api/162740870607536128?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment&bg=161a23&animated=true" align="right" />
 </a>
