@@ -10,6 +10,7 @@
 ![](https://skillicons.dev/icons?i=js,ts,py,php,html,css,tailwind,bootstrap,nodejs,express,react,nextjs&theme=dark&perline=4)
 
 <!--START_SECTION:waka-->
+
 ```txt
 HTML            2 hrs 53 mins   ███████▒░░░░░░░░░░░░░░░░░   29.34 %
 JavaScript      2 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
@@ -17,4 +18,5 @@ TypeScript      1 hr 36 mins    ████░░░░░░░░░░░░
 JSON            47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
 CSS             34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
 ```
+
 <!--END_SECTION:waka-->
