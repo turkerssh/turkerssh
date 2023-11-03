@@ -11,6 +11,11 @@
 ![](https://skillicons.dev/icons?i=js,ts,py,php,go&theme=dark&perline=6)
 #### Frameworks
 ![](https://skillicons.dev/icons?i=next,react,nodejs,tailwind,bootstrap,express&theme=dark&perline=6)
+#### Databases
+![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres&theme=dark&perline=6)
+#### Other
+![](https://skillicons.dev/icons?i=github,git,figma,photoshop,cloudflare,vercel,replit,vscode,visualstudio,discord&theme=dark&perline=6)
+
 
 <!--START_SECTION:waka-->
 
