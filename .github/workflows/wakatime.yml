@@ -1,14 +1,13 @@
-name: Wakatime
+name: WakaTime
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
     - cron: "*/2 * * * *"
 
 jobs:
   update-readme:
-    name: Wakatime
+    name: WakaTime
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
