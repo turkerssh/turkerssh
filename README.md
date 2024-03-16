@@ -16,16 +16,3 @@
 ![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres&theme=dark&perline=6)
 #### Other
 ![](https://skillicons.dev/icons?i=github,gitlab,git,figma,photoshop,cloudflare,vercel,replit,vscode,visualstudio,discord,linux&theme=dark&perline=6)
-
-
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript       52 hrs 50 mins  ██████████░░░░░░░░░░░░░░░   40.27 %
-Other            24 hrs 1 min    ████▓░░░░░░░░░░░░░░░░░░░░   18.31 %
-TypeScript       13 hrs 17 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-HTML             12 hrs 2 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-JSON             9 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-```
-
-<!--END_SECTION:waka-->
