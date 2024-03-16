@@ -1,4 +1,3 @@
-![GitHub](https://github.com/turkwr/turkwr/assets/63150613/e5462c44-ccab-48a0-8a33-9f1ea91ff35d)
 <!-- ## Hi! I'm Türker 🖐️ -->
 
 ##  Hi! I'm Türker 👋
