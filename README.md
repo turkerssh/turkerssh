@@ -1,2 +1,11 @@
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/vmfunc/vmfunc/blob/main/ransom.png?raw=true');]{x0000}$}
+<img src="./header.png" width="10000">
+
+## Hi 👋! I'm **Türker**, developer from the Izmir, Turkiye.
+[![My Skills](https://skillicons.dev/icons?theme=dark&i=ts,js,svelte,html,css,vscode,tailwind,github,nextjs,react,mongodb,nodejs)](https://skillicons.dev)
+
+<a href="https://u8views.com/github/turkwr"><img src="https://u8views.com/api/v1/github/profiles/63150613/views/total-count.svg"></a>
+
+## My Projects ✨
+- [🖥️ turkwr/discord.js-v14-template-bot](https://github.com/turkwr/discord.js-v14-template-bot), A template for Discord bots using discord.js v14.
+- [🖥️ turkwr/X-example-weather-app](https://github.com/turkwr/turkwr/X-example-weather-app), A example X (Twitter) bot.
+- [📝 Shapy](https://github.com/turkwr/turkwr), Shapy, a modern Discord bot with a focus on utility and moderation.
