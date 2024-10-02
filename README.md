@@ -7,6 +7,3 @@
 
 ## My Projects ✨
 - [📝 Shapy](https://github.com/ShapyBot), Shapy, a modern Discord bot with a focus on utility and moderation.
-- [🖥️ turkerssh/discord.js-v14-template-bot](https://github.com/turkerssh/discord.js-v14-template-bot), A template for Discord bots using discord.js v14.
-- [🖥️ turkerssh/X-example-weather-app](https://github.com/turkerssh/X-example-weather-app), A example X (Twitter) bot.
-- [🖥️ turkerssh/python-snake-game](https://github.com/turkerssh/python-snake-game), Snake game made with Python.
